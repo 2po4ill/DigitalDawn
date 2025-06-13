@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 11c02e07e50b0144c987e73b4b05b03d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4751893443564779339
+    second: robot_green_0
+  - first:
+      213: 2285696638246189704
+    second: robot_green_1
+  - first:
+      213: 5766399166429875557
+    second: robot_green_2
+  - first:
+      213: -6751847798217963714
+    second: robot_green_3
+  - first:
+      213: -5463129475549255582
+    second: robot_green_4
+  - first:
+      213: -1086367933697531546
+    second: robot_green_5
+  - first:
+      213: -5103632025316290578
+    second: robot_green_6
+  - first:
+      213: -5818631972972307734
+    second: robot_green_7
+  - first:
+      213: -5896927289989540530
+    second: robot_green_8
+  - first:
+      213: -133840926750026403
+    second: robot_green_9
+  - first:
+      213: -3691920784460181492
+    second: robot_green_10
+  - first:
+      213: 4906762666126487327
+    second: robot_green_11
+  - first:
+      213: -2670394789121419093
+    second: robot_green_12
+  - first:
+      213: 8897968186670440574
+    second: robot_green_13
+  - first:
+      213: -8425452405173810704
+    second: robot_green_14
+  - first:
+      213: -7540924276276930789
+    second: robot_green_15
+  - first:
+      213: 4800501582904592921
+    second: robot_green_16
+  - first:
+      213: 1263011736283061723
+    second: robot_green_17
+  - first:
+      213: -8121341599300788982
+    second: robot_green_18
+  - first:
+      213: -5496604271511076268
+    second: robot_green_19
+  - first:
+      213: -1290401747132198540
+    second: robot_green_20
+  - first:
+      213: -6466836008777198027
+    second: robot_green_21
+  - first:
+      213: -6453667283225178417
+    second: robot_green_22
+  - first:
+      213: -9167947259605489812
+    second: robot_green_23
+  - first:
+      213: -5598266635194803361
+    second: robot_green_24
+  - first:
+      213: 3927339528266528909
+    second: robot_green_25
+  - first:
+      213: 7992824765819967083
+    second: robot_green_26
+  - first:
+      213: -756699869473636857
+    second: robot_green_27
+  - first:
+      213: 6673579731096228597
+    second: robot_green_28
+  - first:
+      213: -676310117556124410
+    second: robot_green_29
+  - first:
+      213: -916672019111409960
+    second: robot_green_30
+  - first:
+      213: -8556324082159903093
+    second: robot_green_31
+  - first:
+      213: 7222313285244757528
+    second: robot_green_32
+  - first:
+      213: -5100943681722032479
+    second: robot_green_33
+  - first:
+      213: 3782347459344270496
+    second: robot_green_34
+  - first:
+      213: -497569935074319723
+    second: robot_green_35
+  - first:
+      213: -2471962324573991167
+    second: robot_green_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot_green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49576253, y: 0.13981724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b840d5f612ed0eb0800000000000000
+      internalID: -4751893443564779339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.507462, y: 0.17913342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af7fa7bfc68bf10800000000000000
+      internalID: 2285696638246189704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.19405746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d492c7d7d560050800000000000000
+      internalID: 5766399166429875557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49253798, y: 0.17913342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3707b9433e9c42a0800000000000000
+      internalID: -6751847798217963714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14182377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268abe7dfa01f24b0800000000000000
+      internalID: -5463129475549255582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.15674734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616590ce127ce0f0800000000000000
+      internalID: -1086367933697531546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49434948, y: 0.14401962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4015b79f89d7430800000000000000
+      internalID: 3782347459344270496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_green_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.13271865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5922bf0c7c64819f0800000000000000
+      internalID: -497569935074319723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96a64776132f04b40bfe351891850518
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robot_green_0: -4751893443564779339
+      robot_green_1: 2285696638246189704
+      robot_green_10: -3691920784460181492
+      robot_green_11: 4906762666126487327
+      robot_green_12: -2670394789121419093
+      robot_green_13: 8897968186670440574
+      robot_green_14: -8425452405173810704
+      robot_green_15: -7540924276276930789
+      robot_green_16: 4800501582904592921
+      robot_green_17: 1263011736283061723
+      robot_green_18: -8121341599300788982
+      robot_green_19: -5496604271511076268
+      robot_green_2: 5766399166429875557
+      robot_green_20: -1290401747132198540
+      robot_green_21: -6466836008777198027
+      robot_green_22: -6453667283225178417
+      robot_green_23: -9167947259605489812
+      robot_green_24: -5598266635194803361
+      robot_green_25: 3927339528266528909
+      robot_green_26: 7992824765819967083
+      robot_green_27: -756699869473636857
+      robot_green_28: 6673579731096228597
+      robot_green_29: -676310117556124410
+      robot_green_3: -6751847798217963714
+      robot_green_30: -916672019111409960
+      robot_green_31: -8556324082159903093
+      robot_green_32: 7222313285244757528
+      robot_green_33: -5100943681722032479
+      robot_green_34: 3782347459344270496
+      robot_green_35: -497569935074319723
+      robot_green_36: -2471962324573991167
+      robot_green_4: -5463129475549255582
+      robot_green_5: -1086367933697531546
+      robot_green_6: -5103632025316290578
+      robot_green_7: -5818631972972307734
+      robot_green_8: -5896927289989540530
+      robot_green_9: -133840926750026403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
